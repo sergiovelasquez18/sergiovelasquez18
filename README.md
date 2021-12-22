@@ -45,8 +45,8 @@
 <a href="https://t.me/Sergiovc18">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
+<br />
 
-  
 ---
 
 let's connect 👨‍💻 and develop together. 😁✌
