@@ -9,4 +9,4 @@
 
 🌱 I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="3%" align="center">
 
- :books: I want to learn <img src="https://blog.arsys.es/file/uploads/2017/04/React.jpg" width="8%" align="center">
+ :books: I want to learn <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fced_LNQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1zg83mt0lo13dfmff1cr.png" width="8%" align="center">
